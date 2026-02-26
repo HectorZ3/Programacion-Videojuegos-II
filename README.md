@@ -33,13 +33,13 @@
 
 | 🎓 Tutorial | ✨ Documento | 🔗 Videos |
 |------------|------------|----------------------|
-| 1 - 15 | *Jugabilidad Básica* | [Ver Carpeta](https://drive.google.com/drive/folders/1fAP_yA7uvkCKehcSlECdI6PfE1E123fg?usp=sharing) |
+| 1 - 15 | [Videojuego 2D]() | [Ver Carpeta](https://drive.google.com/drive/folders/1gkGsIL14sMmHNiwB0cTru40tloWZa9L-?usp=sharing) |
 
 ---
 
 | Practicas | Detalles | 🔗 Proyecto |
 |------------|------------|----------------------|
-| 1 | El jugador explora su ciudad natal | [Ver Carpeta](https://drive.google.com/drive/folders/12dNqMwk5Sj4h5c3Twje1pEdMDBMqsRvm?usp=sharing) |
+| 1 |  | [Ver Carpeta]() |
 | 2 |  | [Ver Carpeta]() |
 | 3 |  | [Ver Carpeta]() |
 
