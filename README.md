@@ -4,14 +4,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00ff99,100:0072ff&reversal=true&animation=fadeIn" />
 </div>
 
-<h3 align="center">
-  Hola soy Héctor Saúl Otero Zapatero
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Programación+de+videojuegos">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Programación+de+videojuegos+II">
   </a>
 </p>
 
