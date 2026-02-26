@@ -34,17 +34,15 @@
 
 ---
 
-## 🕹 Tutoriales del Curso "Create with Code"
+## 🕹 Tutoriales de Videojuegos 2D
 
-| 🎓 Tutorial | ✨ Práctica | 🔗 Enlace de Evidencia |
+| 🎓 Tutorial | ✨ Documento | 🔗 Videos |
 |------------|------------|----------------------|
-| Tutorial 2 | *Jugabilidad Básica* | [Ver Carpeta](https://drive.google.com/drive/folders/1fAP_yA7uvkCKehcSlECdI6PfE1E123fg?usp=sharing) |
-| Tutorial 3 | *Sonido y Efectos* | [Ver Carpeta](https://drive.google.com/drive/folders/1FmHDwk9S3lV5iXXQeo-RspOP0m3e522_?usp=sharing) |
-| Tutorial 5 | *Interfaz de Usuario* | [Ver Carpeta](https://drive.google.com/drive/folders/1MEwpiJ7kANdCNd_xYaB6lGyLM3Ie2G05?usp=sharing) |
+| 1 - 15 | *Jugabilidad Básica* | [Ver Carpeta](https://drive.google.com/drive/folders/1fAP_yA7uvkCKehcSlECdI6PfE1E123fg?usp=sharing) |
 
 ---
 
-| Niveles | Detalles | 🔗 Enlace de Evidencia |
+| Practicas | Detalles | 🔗 Proyecto |
 |------------|------------|----------------------|
 | 1 | El jugador explora su ciudad natal | [Ver Carpeta](https://drive.google.com/drive/folders/12dNqMwk5Sj4h5c3Twje1pEdMDBMqsRvm?usp=sharing) |
 | 2 |  | [Ver Carpeta]() |
@@ -53,7 +51,6 @@
 ---
 
 <div align="center" style="background-color:#0f3d0f; padding: 10px; border-radius: 15px;">
-  <h3 style="color:#00ff6a;">🔥 Soy Gamer feliz 🕹</h3>
 </div>
 
 <p align="center">
