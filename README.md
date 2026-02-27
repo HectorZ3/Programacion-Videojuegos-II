@@ -24,7 +24,7 @@
 |----------|-----------|
 | **Nombre** | Hector Saul Otero Zapatero |
 | **Número de control** | 1223100676 |
-| **Grupo** | GIEV3071 |
+| **Grupo** | GIEV3081 |
 | **Carrera** | Ing. Entornos Virtuales y Negocios Digitales |
 
 ---
@@ -33,7 +33,7 @@
 
 | 🎓 Tutorial | ✨ Documento | 🔗 Videos |
 |------------|------------|----------------------|
-| 1 - 15 | [Videojuego 2D]() | [Ver Carpeta](https://drive.google.com/drive/folders/1gkGsIL14sMmHNiwB0cTru40tloWZa9L-?usp=sharing) |
+| 1 - 15 | [Videojuego 2D](https://drive.google.com/drive/folders/1hkGautho-Vo68-rYCXzhYKuh2_rnbzbO?usp=sharing) | [Ver Carpeta](https://drive.google.com/drive/folders/1reKki4ZEe-xy6fpbkKhCh7JCJW7BOmJB?usp=sharing) |
 
 ---
 
