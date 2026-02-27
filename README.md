@@ -37,11 +37,6 @@
 
 ---
 
-| Practicas | Detalles | 🔗 Proyecto |
-|------------|------------|----------------------|
-| 1 |  | [Ver Carpeta]() |
-| 2 |  | [Ver Carpeta]() |
-| 3 |  | [Ver Carpeta]() |
 
 ---
 
