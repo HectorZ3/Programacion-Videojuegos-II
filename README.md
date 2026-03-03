@@ -37,7 +37,7 @@
 
 ---
 
-## 🕹 Tutoriales de Videojuegos 2D
+## 🕹 Practicas de Videojuegos 2D
 
 | Practicas | Proyecto |
 |------------|------------|
